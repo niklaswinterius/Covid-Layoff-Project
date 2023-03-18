@@ -13,3 +13,6 @@ The analysis will begin with data cleaning and exploration, which will include r
 
 ## Conclusion:
 The Layoffs Data Analysis project aims to provide insights into the phenomenon of layoffs and their impact on the economy and society. The project will analyze the reasons behind layoffs, the industries that are most affected, and the regions that are most impacted. The project will provide recommendations for companies and policymakers to mitigate the impact of layoffs and support affected employees.
+
+## Tableau Visualization
+https://public.tableau.com/app/profile/niklas.winter/viz/Storyline_Layoffstudy/Story1?publish=yes
