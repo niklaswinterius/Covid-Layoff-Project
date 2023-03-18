@@ -1,6 +1,6 @@
 # Covid-Layoff-Project
 ## Introduction:
-The Layoffs Data Analysis project aims to analyze a dataset of layoffs that occurred in the year 2022. The dataset is collected from various sources and compiled to provide a comprehensive view of layoffs in different industries, locations, and company sizes. The project aims to provide insights into the reasons behind layoffs, their impact on employees, and the industries that are most affected by the phenomenon.
+The Layoffs Data Analysis project aims to analyze a dataset of layoffs that occurred in the year 2022. The dataset is collected from various sources and compiled to provide a comprehensive view of layoffs in different industries, locations, and company sizes. The project aims to provide insights into the impact of the Covid-19 pandemic behind layoffs, their impact on employees, and the industries that are most affected by the pandemic.
 
 ## Dataset:
 The dataset used for this analysis is available on Kaggle and is named "Layoffs Data 2022" (https://www.kaggle.com/datasets/theakhilb/layoffs-data-2022). The dataset includes information about layoffs in different companies, their locations, industries, and the number of employees affected. The dataset also provides information about the reasons behind the layoffs, such as mergers and acquisitions, bankruptcies, and downsizing.
