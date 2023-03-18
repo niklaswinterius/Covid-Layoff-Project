@@ -9,10 +9,10 @@ The dataset used for this analysis is available on Kaggle and is named "Layoffs 
 The analysis will be performed using Python programming language and various libraries such as NumPy, Pandas, and Matplotlib. The Jupyter Notebook will be used as the primary tool for data exploration, data cleaning, and data visualization. The analysis will be conducted in a step-by-step manner, and the code will be explained in detail.
 
 ## Analysis:
-The analysis will begin with data cleaning and exploration, which will include removing duplicates, missing values, and outliers. The dataset will be visualized using different types of graphs and charts to identify trends and patterns. The analysis will also include a statistical analysis of the dataset to identify correlations and relationships between different variables.
+The analysis will begin with data cleaning and exploration, which will include removing duplicates, missing values, and outliers. The dataset will be visualized using different types of graphs and charts to identify trends and patterns. The analysis will also include a statistical analysis of the dataset to identify correlations and relationships between different variables. The results will be presented in Tableau.
 
 ## Conclusion:
-The Layoffs Data Analysis project aims to provide insights into the phenomenon of layoffs and their impact on the economy and society. The project will analyze the reasons behind layoffs, the industries that are most affected, and the regions that are most impacted. The project will provide recommendations for companies and policymakers to mitigate the impact of layoffs and support affected employees.
+The Layoffs Data Analysis project aims to provide insights into the phenomenon of layoffs and the impact of the Covid-19 pandemic on different industries. The project will analyze the reasons behind layoffs, the industries that are most affected, and the regions that are most impacted. The project will provide recommendations for companies to mitigate the impact of layoffs and support affected employees.
 
 ## Tableau Visualization
 https://public.tableau.com/app/profile/niklas.winter/viz/Storyline_Layoffstudy/Story1?publish=yes
